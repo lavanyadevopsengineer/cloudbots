@@ -1,4 +1,6 @@
 *.py
 *.pdf
 *.txt
+!g.py
+!h.pdf
 
